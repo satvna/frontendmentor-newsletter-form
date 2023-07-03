@@ -1,0 +1,80 @@
+html,body {
+  background-color: hsl(234, 29%, 20%);
+  height: 100%;
+  margin: 0;
+  font-family: Roboto, sans-serif;
+}
+ul{
+  list-style-type: none;
+  padding-left:0;
+}
+li{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+li p {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.button{
+  width: 100%;
+  height: 50px;
+  background-color: hsl(235, 18%, 26%);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+}
+.button:hover {
+  background-color: black;
+  cursor: pointer;
+}
+
+.wrapper{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.stay-updated{
+  background-color:  hsl(0, 0%, 100%);
+  width: 50%;
+  aspect-ratio: 14/9;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10%;
+}
+.left {
+  width: 40%;
+  padding-left: 20px;
+
+}
+.left h1 {
+  font-weight: 700;
+  font-size: 2.5rem;
+  margin: 0;
+}
+.right {
+  height: 100%;
+  margin-top: auto;
+  margin-bottom: auto;
+  display: flex;
+  align-items: center;
+
+}
+.stay-updated img {
+  height: 90%;
+}
+.success {
+  display: none;
+}
+#mobile-img{
+  display: none;
+}
+.attribution { font-size: 11px; text-align: center; position: absolute; bottom: 20px; margin-left: auto; margin-right: auto;}
+    .attribution a { color: hsl(228, 45%, 44%); }
