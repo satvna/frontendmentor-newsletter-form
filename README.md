@@ -69,4 +69,4 @@ Need to add CSS transitions.
 ## Author
 
 - Website - [satvna](https://github.com/satvna)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@sweetmille](https://www.frontendmentor.io/profile/sweetmille)
