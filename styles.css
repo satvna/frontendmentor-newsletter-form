@@ -32,7 +32,8 @@ li p {
   transition: background-image 0.3s ease-out;
 }
 .button:hover {
-  background-image: linear-gradient(to right, #fda085 0%, #f6d365 100%);
+  background-image: linear-gradient(to right, #ff634e 0%, #ff5379 100%);
+  box-shadow: 0px 12px 15px #fed1ce;
   cursor: pointer;
 }
 
