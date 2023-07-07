@@ -69,6 +69,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### What I learned
 
 - body or html (not sure which) (probably body) has margins by default. When setting them to 100% height or width, make sure to set margins to 0 to prevent overflow scrolling.
+- place script at the bottom of the body element
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
